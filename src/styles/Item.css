@@ -1,0 +1,15 @@
+img{
+    max-height: 100px;
+    width: 100%;
+    cursor: pointer;
+    padding: -5%;
+    object-fit: cover;
+    
+}
+.pos-item{
+    font-weight: bolder;
+}
+.pos-item:hover{
+    background: rgb(2, 85, 162) ;
+    color: #fff;
+}

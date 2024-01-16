@@ -1,0 +1,15 @@
+#root {
+
+  margin: 0 ;
+  padding: 0;
+  background-color: rgb(205, 219, 233);
+  height: 100vh;
+}
+
+
+html body{
+  margin: 0 ;
+  padding: 0;
+  background-color: lightslategray;
+  height: 100vh;
+}
